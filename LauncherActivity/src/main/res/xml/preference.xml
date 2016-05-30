@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RingtonePreference
+        android:ringtoneType="all"
+        android:title="Set Ringtone"
+        android:summary="choose Ringtone（Test for RingtonePreference)"
+        android:showDefault="true"
+        android:key="ring_key"
+        android:showSilent="true">
+    </RingtonePreference>
+    <PreferenceCategory
+        android:title="Set Personal Information ">
+        <EditTextPreference
+            android:key="name"
+            android:title="Name:"
+            android:summary="Please enter your name（Test for EditTextPreference)"
+            android:dialogTitle="Your name is：" />
+
+        <ListPreference
+            android:key="gender"
+            android:title="Gender:"
+            android:summary="Choose gender（Test for ListPreference）"
+            android:dialogTitle="ListPreference"
+            android:entries="@array/gender_name_list"
+            android:entryValues="@array/gender_value_list" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Set System">
+        <CheckBoxPreference
+            android:key="autoSave"
+            android:title="Save progress automatically"
+            android:summaryOn="save automatically: open"
+            android:summaryOff="save automatically: close"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

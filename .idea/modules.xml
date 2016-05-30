@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android_Event_practise.iml" filepath="$PROJECT_DIR$/Android_Event_practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsyncTaskDemo/AsyncTaskDemo.iml" filepath="$PROJECT_DIR$/AsyncTaskDemo/AsyncTaskDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BundleDemo_1/BundleDemo_1.iml" filepath="$PROJECT_DIR$/BundleDemo_1/BundleDemo_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BundleDemo_2/BundleDemo_2.iml" filepath="$PROJECT_DIR$/BundleDemo_2/BundleDemo_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CallBackDemo_1/CallBackDemo.iml" filepath="$PROJECT_DIR$/CallBackDemo_1/CallBackDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CallBackDemo_1/CallBackDemo_1.iml" filepath="$PROJECT_DIR$/CallBackDemo_1/CallBackDemo_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CallBackDemo_2/CallBackDemo_2.iml" filepath="$PROJECT_DIR$/CallBackDemo_2/CallBackDemo_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigurationCheckDemo/ConfigurationCheckDemo.iml" filepath="$PROJECT_DIR$/ConfigurationCheckDemo/ConfigurationCheckDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandlerDemo_1/HandlerDemo_1.iml" filepath="$PROJECT_DIR$/HandlerDemo_1/HandlerDemo_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandlerDemo_2/HandlerDemo_2.iml" filepath="$PROJECT_DIR$/HandlerDemo_2/HandlerDemo_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BundleDemo_1/IntentDemo.iml" filepath="$PROJECT_DIR$/BundleDemo_1/IntentDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LaunchModeDemo_standard/LaunchModeDemo_1.iml" filepath="$PROJECT_DIR$/LaunchModeDemo_standard/LaunchModeDemo_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LaunchModeDemo_singleInstance/LaunchModeDemo_singleInstance.iml" filepath="$PROJECT_DIR$/LaunchModeDemo_singleInstance/LaunchModeDemo_singleInstance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LaunchModeDemo_singleTask/LaunchModeDemo_singleTask.iml" filepath="$PROJECT_DIR$/LaunchModeDemo_singleTask/LaunchModeDemo_singleTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LaunchModeDemo_standard/LaunchModeDemo_standard.iml" filepath="$PROJECT_DIR$/LaunchModeDemo_standard/LaunchModeDemo_standard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LauncherActivity/LauncherActivity.iml" filepath="$PROJECT_DIR$/LauncherActivity/LauncherActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LifeCycleDemo/LifeCycleDemo.iml" filepath="$PROJECT_DIR$/LifeCycleDemo/LifeCycleDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListenerDemo/ListenerDemo.iml" filepath="$PROJECT_DIR$/ListenerDemo/ListenerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CallBackDemo_2/OverwriteOnConfigurationChanged.iml" filepath="$PROJECT_DIR$/CallBackDemo_2/OverwriteOnConfigurationChanged.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListenerDemo/app.iml" filepath="$PROJECT_DIR$/ListenerDemo/app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AsyncTaskDemo" />
+            <option value="$PROJECT_DIR$/BundleDemo_1" />
+            <option value="$PROJECT_DIR$/BundleDemo_2" />
+            <option value="$PROJECT_DIR$/CallBackDemo_1" />
+            <option value="$PROJECT_DIR$/CallBackDemo_2" />
+            <option value="$PROJECT_DIR$/ConfigurationCheckDemo" />
+            <option value="$PROJECT_DIR$/HandlerDemo_1" />
+            <option value="$PROJECT_DIR$/HandlerDemo_2" />
+            <option value="$PROJECT_DIR$/LaunchModeDemo_singleInstance" />
+            <option value="$PROJECT_DIR$/LaunchModeDemo_singleTask" />
+            <option value="$PROJECT_DIR$/LaunchModeDemo_standard" />
+            <option value="$PROJECT_DIR$/LauncherActivity" />
+            <option value="$PROJECT_DIR$/LifeCycleDemo" />
+            <option value="$PROJECT_DIR$/ListenerDemo" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AsyncTaskDemo" />
+            <option value="$PROJECT_DIR$/BundleDemo_1" />
+            <option value="$PROJECT_DIR$/BundleDemo_2" />
+            <option value="$PROJECT_DIR$/CallBackDemo_1" />
+            <option value="$PROJECT_DIR$/CallBackDemo_2" />
+            <option value="$PROJECT_DIR$/ConfigurationCheckDemo" />
+            <option value="$PROJECT_DIR$/HandlerDemo_1" />
+            <option value="$PROJECT_DIR$/HandlerDemo_2" />
+            <option value="$PROJECT_DIR$/LaunchModeDemo_singleInstance" />
+            <option value="$PROJECT_DIR$/LaunchModeDemo_singleTask" />
+            <option value="$PROJECT_DIR$/LaunchModeDemo_standard" />
+            <option value="$PROJECT_DIR$/LauncherActivity" />
+            <option value="$PROJECT_DIR$/LifeCycleDemo" />
+            <option value="$PROJECT_DIR$/ListenerDemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

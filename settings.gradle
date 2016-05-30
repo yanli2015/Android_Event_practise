@@ -1,0 +1,1 @@
+include ':ListenerDemo', ':CallBackDemo_1', ':ConfigurationCheckDemo', ':CallBackDemo_2', ':HandlerDemo_1', ':HandlerDemo_2', ':AsyncTaskDemo', ':LauncherActivity', ':BundleDemo_1', ':BundleDemo_2', ':BundleDemo_2', ':LifeCycleDemo', ':LaunchModeDemo_standard', ':LaunchModeDemo_singleTask', ':LaunchModeDemo_singleTask', ':LaunchModeDemo_singleInstance'
